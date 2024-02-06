@@ -1,0 +1,6 @@
+how to activate venv:
+	cd to the venv path first  
+	source venv/bin/activate 
+
+deactivate venv:
+	deactivate 
